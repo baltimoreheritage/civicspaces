@@ -26,18 +26,19 @@ Founded in 1960, [Baltimore Heritage, Inc.](https://baltimoreheritage.org/about/
 
 ## Contribution Guidelines
 
-If you use GitHub, you can contribute to the project in two ways:
-
-- [Submiting an issue](https://github.com/baltimoreheritage/civicspaces/issues)
-- [Forking the repository](https://github.com/baltimoreheritage/civicspaces/pulls#fork-destination-box), make changes, and submit a [pull request](https://github.com/baltimoreheritage/civicspaces/pulls)
-
-We are planning many other ways you can contribute to or participate in this project. Here are a few of the things we're working on:
+You can contribute to this project or participate in our research on civic spaces in a few different ways. Here are a few of the things we're working on:
 
 - A survey of property managers & small nonprofit property owners
-- A [directory of local civic spaces in Baltimore](https://baltimoreheritage.github.io/civicspaces/)
+- A [directory of local civic spaces in Baltimore](https://baltimoreheritage.github.io/civicspaces/directory/)
 - A call for comments on related educational resources
 
-You can also always share suggestions and comments [through the Baltimore Heritage contact page](https://baltimoreheritage.org/contact/).
+You can share questions, suggestions, or comments [through the Baltimore Heritage contact page](https://baltimoreheritage.org/contact/).
+
+If you use GitHub, you can also:
+
+- [Submit an issue](https://github.com/baltimoreheritage/civicspaces/issues)
+- [Fork the repository](https://github.com/baltimoreheritage/civicspaces/pulls#fork-destination-box), make changes, and submit a [pull request](https://github.com/baltimoreheritage/civicspaces/pulls)
+
 
 ## Related Projects
 
