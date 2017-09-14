@@ -34,7 +34,8 @@ If you use GitHub, you can contribute to the project in two ways:
 We are planning many other ways you can contribute to or participate in this project. Here are a few of the things we're working on:
 
 - A survey of property managers & small nonprofit property owners
-- A [directory of local civic spaces in Baltimore](https://baltimoreheritage.github.io/civicspaces/)
+- A series of interviews with nonprofit property owners ([draft questionnaire](https://docs.google.com/document/d/1g1_s-1zh1Dhax-eqjGYv-XV6hrQ63FPS3D9fakIhD6s/edit?usp=sharing))
+- A [directory of local civic spaces in Baltimore](https://baltimoreheritage.github.io/civicspaces/directory/)
 - A call for comments on related educational resources
 
 You can also always share suggestions and comments [through the Baltimore Heritage contact page](https://baltimoreheritage.org/contact/).
