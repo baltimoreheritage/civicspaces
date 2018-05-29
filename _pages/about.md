@@ -1,14 +1,10 @@
-# Maintain Civic Spaces
-
-![Village Learning Place, Saint Paul Street. Photograph by Eli Pousson, 2017 January 24. Courtesy [Baltimore Heritage](https://www.flickr.com/photos/baltimoreheritage/32483636616/) (CC 0)](https://c1.staticflickr.com/1/617/32483636616_f2f6fd5c37_b.jpg)
-
-## Project Overview
-
-The goal of this project is to support the workers at nonprofit organizations and religious organizations responsible for the day-to-day maintenance community-serving buildings around Baltimore City. We seek to collaborate with the workers and organizations responsibility for these buildings to build a new network of mutual support and create open educational resources to support the continued and improved stewardship of "civic spaces".
-
-### Funding
-
-Funding for this project is still under development. Baltimore Heritage is currently applying for grant support.
+---
+permalink: /about/
+layout: single
+title: "About"
+excerpt: "Maintain Civic Spaces"
+modified: 2018-05-29
+---
 
 ### Background
 
@@ -39,14 +35,10 @@ If you use GitHub, you can also:
 - [Submit an issue](https://github.com/baltimoreheritage/civicspaces/issues)
 - [Fork the repository](https://github.com/baltimoreheritage/civicspaces/pulls#fork-destination-box), make changes, and submit a [pull request](https://github.com/baltimoreheritage/civicspaces/pulls)
 
+## Credits
 
-## Related Projects
+This guide is based on feedback and information from partners and volunteers including:
 
-- [Vacant Buildings 101](https://baltimoreheritage.github.io/vacant-buildings-101/)
-- [Baltimore Places](https://baltimoreheritage.github.io/places/)
-- [Local Preservation School](https://localpreservation.github.io/)
-
-## Related Communities
-
-- [Baltimore's New Old House Forum](https://www.facebook.com/groups/284340365036620/) (Facebook Group)
-- [Saving Places! Let's Talk Preservation Advocacy](https://www.facebook.com/groups/savingplaces/) (Facebook Group)
+- Neighborhood Design Center
+- Friends of Patterson Park
+- McKim Center
