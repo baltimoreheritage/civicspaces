@@ -25,6 +25,10 @@ Founded in 1960, [Baltimore Heritage, Inc.](https://baltimoreheritage.org/about/
 You can contribute to this project or participate in our research on civic spaces in a few different ways. Here are a few of the things we're working on:
 
 - A survey of property managers & small nonprofit property owners
+<<<<<<< HEAD:_pages/about.md
+=======
+- A series of interviews with nonprofit property owners ([draft questionnaire](https://docs.google.com/document/d/1g1_s-1zh1Dhax-eqjGYv-XV6hrQ63FPS3D9fakIhD6s/edit?usp=sharing))
+>>>>>>> 66d10bb79dcb068256691896342f60e12b476fd2:docs/index.md
 - A [directory of local civic spaces in Baltimore](https://baltimoreheritage.github.io/civicspaces/directory/)
 - A call for comments on related educational resources
 
