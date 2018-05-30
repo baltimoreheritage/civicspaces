@@ -105,13 +105,13 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
+  flickr           : baltimoreheritage
+  facebook         : baltimoreheritage
   foursquare       :
-  github           :
+  github           : baltimoreheritage
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : bmoreheritage
   lastfm           :
   linkedin         :
   pinterest        :
@@ -119,11 +119,11 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : bmoreheritage
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/user/baltimoreheritage" # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
