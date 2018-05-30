@@ -14,6 +14,10 @@ Recognizing this issue, in January 2017, Baltimore Heritage began working with t
 - Create a network of building "maintainers" who can provide mutual support through an online forum or email list.
 - Develop an online or printed manual of "best practices" based on the feedback from the interviews and input from the broader open network of building "maintainers".
 
+### Project timeline
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1R5KUA75FWFUTt4qzqfnisB6WTP4vN1jwrVWe8Dhpd90&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 ### About Baltimore Heritage
 
 Founded in 1960, [Baltimore Heritage, Inc.](https://baltimoreheritage.org/about/) is Baltimore’s nonprofit historic and architectural preservation organization. With two staff members, 33 volunteer board members, and a host of volunteers, we work to preserve and promote Baltimore’s historic buildings and neighborhoods.
