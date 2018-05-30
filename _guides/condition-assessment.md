@@ -2,6 +2,7 @@
 title: "How to do a condition assessment of a building"
 date: 2017-11-24 # Placeholder date
 modified: 2018-05-29
+excerpt: "How a close inspection of a building can identify issues and help set priorities for repairs."
 category:
   - How-to
 ---

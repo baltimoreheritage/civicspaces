@@ -1,8 +1,8 @@
 ---
 title: "How to organize a building maintenance committee"
-excerpt: "The steps to building community and enlisting volunteer support for maintenance work."
 date: 2017-08-01 # Placeholder date
 modified: 2018-05-29
+excerpt: "How to create a volunteer committee to provide advice and direct assistance with repairs and maintenance work."
 category:
   - How-to
 ---
