@@ -6,6 +6,19 @@ excerpt: "Maintain Civic Spaces"
 modified: 2018-05-30
 ---
 
+### Get in touch
+
+Are you a volunteer or staff member at a civic space, community building, or nonprofit managed building in Baltimore? Please get in touch to share your questions and your experience. We are currently seeking partners to support for condition assessments in 2018 and 2019.
+
+<form method="POST" action="https://formspree.io/info@baltimoreheritage.org" class="notice--primary">
+  <input name="email" placeholder="Your email" type="email">
+  <input type="hidden" name="_subject" value="Submission from Maintain Civic Spaces" />
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit" class="btn btn--info btn--x-large">Send</button>
+</form>
+
+### About the project
+
 For buildings of all sizes, maintenance—fixing a dripping faucet, calling a contractor to patch a leaky roof, or cleaning graffiti off a restroom wall—is a constant need. Finding the time and resources for regular maintenance is a unique challenge for buildings owned by nonprofit or religious organizations where the work of supporting community-serving programs—GED classes, summer meal distribution, meeting space for addiction recovery support groups—necessarily takes priority. For the smallest organizations with the least resources, all responsibility for building maintenance might fall onto a single employee or a single volunteer. At larger organizations, responsibility for maintenance and facility management might be split up between a number of full- or part-time employees with a mix of paid and volunteer support. Regardless of the size, this common situation is a major challenge for the long-term preservation of hundreds of community-serving buildings both within and outside of designated historic neighborhoods.
 
 Recognizing this issue, in January 2017, Baltimore Heritage began working with the Village Learning Place and the Neighborhood Design Center to prepare a condition report their buildings—the historic Saint Paul Street branch of the Enoch Pratt Library. In the process, our staff discovered that VLP has no clear process for identifying and prioritizing maintenance or capital improvement projects and no organized volunteer committee to assist staff with these tasks. We have identified this area as an important need that we seek to address in three ways:
