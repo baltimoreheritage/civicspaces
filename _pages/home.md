@@ -11,22 +11,26 @@ intro:
   - excerpt: 'Connect on Twitter: &nbsp; [<i class="fab fa-twitter"></i> #maintaincivicspaces](https://twitter.com/hashtag/vacants101){: .btn .btn--twitter}'
 how-to:
   - image_path: https://c1.staticflickr.com/5/4294/35143703084_502a89e1c1_z.jpg
+    image_caption: "Arena Playhouse"
     title: "Organize a Building Committee"
     url: "/guides/building-committee/"
     btn_label: "Get help <i class='fas fa-people-carry'></i>"
     btn_class: "btn--inverse"
   - image_path: https://c1.staticflickr.com/5/4577/23886520277_71200e4964_z.jpg
+    image_caption: "EBLO Center"
     title: "Assess Building Condition"
     url: "/guides/condition-assessment/"
     btn_label: "Learn how <i class='fas fa-clipboard-list'></i>"
     btn_class: "btn--inverse"
   - image_path: https://c1.staticflickr.com/1/881/42307739612_0518f10e86_z.jpg
+    image_caption: "Margaret Brent Elementary/Middle School"
     title: "Organize a Community Clean-up"
     url: "/guides/community-clean-up/"
     btn_label: "Get started <i class='fas fa-broom'></i>"
     btn_class: "btn--inverse"
 project_overview:
  - image_path: /assets/images/2017-01-24-vlp-entrance.jpg
+   image_caption: "Village Learning Place"
    title: "What is Maintain Civic Spaces?"
    excerpt: "The goal of this project is to support the workers at nonprofit organizations and religious organizations responsible for the day-to-day maintenance community-serving buildings around Baltimore City. We seek to collaborate with the workers and organizations responsibility for these buildings to build a new network of mutual support and create open educational resources to support the continued and improved stewardship of civic spaces."
    url: "/about/"
