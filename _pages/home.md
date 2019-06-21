@@ -10,19 +10,19 @@ header:
 intro:
   - excerpt: 'Connect on Twitter: &nbsp; [<i class="fab fa-twitter"></i> #maintaincivicspaces](https://twitter.com/hashtag/vacants101){: .btn .btn--twitter}'
 how-to:
-  - image_path: https://c1.staticflickr.com/5/4294/35143703084_502a89e1c1_z.jpg
+  - image_path: https://live.staticflickr.com/5/4294/35143703084_502a89e1c1_z.jpg
     image_caption: "Arena Playhouse"
     title: "Organize a Building Committee"
     url: "/guides/building-committee/"
     btn_label: "Get help <i class='fas fa-people-carry'></i>"
     btn_class: "btn--inverse"
-  - image_path: https://c1.staticflickr.com/5/4577/23886520277_71200e4964_z.jpg
+  - image_path: https://live.staticflickr.com/5/4577/23886520277_71200e4964_z.jpg
     image_caption: "EBLO Center"
     title: "Assess Building Condition"
     url: "/guides/condition-assessment/"
     btn_label: "Learn how <i class='fas fa-clipboard-list'></i>"
     btn_class: "btn--inverse"
-  - image_path: https://c1.staticflickr.com/1/881/42307739612_0518f10e86_z.jpg
+  - image_path: https://live.staticflickr.com/1/881/42307739612_0518f10e86_z.jpg
     image_caption: "Margaret Brent Elementary/Middle School"
     title: "Organize a Community Clean-up"
     url: "/guides/community-clean-up/"
@@ -38,15 +38,15 @@ project_overview:
    btn_class: "btn--inverse"
 related_overview:
  - title: "Keep learning about buildings and preservation"
-   excerpt: "Maintain Civic Spaces is one of several open educational resources we have created for preservationists, residents, and people who own or manage historic buildings."   
+   excerpt: "Maintain Civic Spaces is one of several open educational resources we have created for preservationists, residents, and people who own or manage historic buildings."
 related_projects:
-  - image_path: https://c1.staticflickr.com/1/811/40330862204_51b4a5a777_z.jpg
+  - image_path: https://live.staticflickr.com/1/811/40330862204_51b4a5a777_z.jpg
     title: "Local Preservation School"
     url: "https://localpreservation.github.io/"
     excerpt: "A collection of open educational resources where preservation advocates and volunteers can learn and share how to save and sustain historic places in their communities."
     btn_label: "Learn more"
     btn_class: "btn--info"
-  - image_path: https://c1.staticflickr.com/3/2382/32750934402_fdbdb00bfa_z.jpg
+  - image_path: https://live.staticflickr.com/2411/32132831684_70f92bb6b5_z.jpg
     title: "Vacant Buildings 101"
     url: "https://baltimoreheritage.github.io/vacant-buildings-101/"
     excerpt: "Baltimore Heritage and the Community Law Center created this introductory guide to help Baltimore residents, property owners, and community leaders take action on vacant buildings."
