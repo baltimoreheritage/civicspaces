@@ -8,7 +8,7 @@ header:
   overlay_filter: .3
   caption: "Entrance to the Village Learning Place, 2017 January 24. [Baltimore Heritage](https://www.flickr.com/photos/baltimoreheritage/32371711612/) ([CC 0](https://creativecommons.org/publicdomain/zero/1.0/))."
 intro:
-  - excerpt: 'Connect on Twitter: &nbsp; [<i class="fab fa-twitter"></i> #maintaincivicspaces](https://twitter.com/hashtag/vacants101){: .btn .btn--twitter}'
+  - excerpt: 'Connect on Twitter: &nbsp; [<i class="fab fa-twitter"></i> #maintaincivicspaces](https://twitter.com/hashtag/maintaincivicspaces){: .btn .btn--twitter}'
 how-to:
   - image_path: https://live.staticflickr.com/5/4294/35143703084_502a89e1c1_z.jpg
     image_caption: "Arena Playhouse"
@@ -38,7 +38,7 @@ project_overview:
    btn_class: "btn--inverse"
 related_overview:
  - title: "Keep learning about buildings and preservation"
-   excerpt: "Maintain Civic Spaces is one of several open educational resources we have created for preservationists, residents, and people who own or manage historic buildings."
+   excerpt: "Maintain Civic Spaces is one of several open educational resources Baltimore Heritage have created for preservationists, residents, and people who own or manage historic buildings."
 related_projects:
   - image_path: https://live.staticflickr.com/1/811/40330862204_51b4a5a777_z.jpg
     title: "Local Preservation School"
@@ -52,7 +52,7 @@ related_projects:
     excerpt: "Baltimore Heritage and the Community Law Center created this introductory guide to help Baltimore residents, property owners, and community leaders take action on vacant buildings."
     btn_label: "Take action"
     btn_class: "btn--info"
-  - image_path: https://explore.baltimoreheritage.org/files/fullsize/c816df09faac033c24779aac550c96b3.jpg
+  - image_path: https://live.staticflickr.com/4873/30931324637_9b46d0a562_z.jpg
     title: "Explore Baltimore Heritage"
     url: "https://explore.baltimoreheritage.org/"
     excerpt: "A website and smartphone app created by Baltimore historians, students, and residents tell the stories behind historic buildings and neighborhoods."
@@ -61,7 +61,7 @@ related_projects:
 featured_civicspaces:
 - image_path: https://explore.baltimoreheritage.org/files/fullsize/f533a618875a632c520ed885aafbf18c.jpg
   title: "Education-Based Latino Outreach (EBLO) Center"
-  url: ""
+  url: "https://explore.baltimoreheritage.org/items/show/631"
   excerpt: "Built in 1922, the former Enoch Pratt Free Library Branch No. 19 at 606 South Ann Street was one of a large number of branch libraries that opened in the early twentieth century. The building has provided offices for EBLO and community meeting space since 2001."
   btn_label: "Learn more"
   btn_class: "btn--info"
